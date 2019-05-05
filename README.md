@@ -7,6 +7,7 @@ You should create your application in this repository.
 ## Required
 
 Complete a single resource application which will be a Blog with Posts following these sections:
+
 1. [Guide Assumptions](https://guides.rubyonrails.org/getting_started.html#guide-assumptions)
 2. [What is Rails](https://guides.rubyonrails.org/getting_started.html#what-is-rails-questionmark)
 3. [Creating a New Rails Application](https://guides.rubyonrails.org/getting_started.html#creating-a-new-rails-project) (note: you do not need to re-install rails or other libraries)
@@ -16,6 +17,7 @@ Complete a single resource application which will be a Blog with Posts following
 ## Bonus
 
 Create a two resource application which will be a Blog with Posts and Comments following these sections:
+
 6. [Adding a Second Model](https://guides.rubyonrails.org/getting_started.html#adding-a-second-model)
 7. [Refactoring](https://guides.rubyonrails.org/getting_started.html#refactoring)
 8. [Deleting Comments](https://guides.rubyonrails.org/getting_started.html#deleting-comments)
